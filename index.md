@@ -1,7 +1,11 @@
 ---
-layout: home
-title: "Trang Chủ HOCTOT365"
+layout: default
+title: Trang chủ
 ---
 
-Chào mừng bạn đến với HOCTOT365!  
-Nơi chia sẻ tài liệu, khóa học, đề thi và kinh nghiệm học tập miễn phí.
+# 📚 Chào mừng đến với HOCTOT365
+
+> Đây là nơi chia sẻ tài liệu học tập, khóa học luyện thi miễn phí cho học sinh.
+
+- [Tài liệu Toán 12](hoctot365.ede.vn)
+- [Tài liệu Hóa 11](https://drive.google.com/...)
